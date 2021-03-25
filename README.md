@@ -10,9 +10,12 @@ This is an analysis and hypothesis testing of an electric car sharing service in
 ### Setup Requirements
 
 You are required to use python programming language and import the following libraries in order to run the codes used. 
-import pandas as pd 
+import pandas as pd
+
 import numpy as np 
+
 from statsmodels.stats. proportions import propotions_ztest
+
 from scipy import stats
 
 ### Technologies Used
